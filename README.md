@@ -1,5 +1,5 @@
-# BATALLA🎮
-este juego es para maximo de dos jugadores.
+# BATALLA 🎮
+* Este juego es para maximo de dos jugadores. *
 ## Historias de usuario👥
 ```
 
