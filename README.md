@@ -20,4 +20,8 @@ So we can continue our game of Battle,
 We want to switch turns
 In this challenge, we will implement a turn switcher on Game.
 
+As a Player,
+So I can Lose a game of Battle,
+I want to see a 'Lose' message if I reach 0HP first
+
 ```
