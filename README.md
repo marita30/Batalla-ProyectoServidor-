@@ -11,4 +11,8 @@ As Player 1,
 So I can start to win a game of Battle,
 I want my attack to reduce Player 2's HP
 
+As Player 1,
+So I can start to win a game of Battle,
+I want my attack to reduce Player 2's HP by 10
+
 ```
