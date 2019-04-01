@@ -15,4 +15,9 @@ As Player 1,
 So I can start to win a game of Battle,
 I want my attack to reduce Player 2's HP by 10
 
+As two Players,
+So we can continue our game of Battle,
+We want to switch turns
+In this challenge, we will implement a turn switcher on Game.
+
 ```
